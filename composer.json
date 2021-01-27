@@ -1,0 +1,9 @@
+{
+    "name": "cahyowhy/php7scafold",
+    "description": "this is just how to use minimal php 7 rest",
+    "autoload": {
+        "psr-4": {
+            "Php7Scafold\\": "src"
+        }
+    }
+}
